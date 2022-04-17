@@ -9,7 +9,7 @@
         "image3":"https://img.freepik.com/free-vector/doctor-character-background_1270-84.jpg?w=2000",
         "detailed":"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "hospital":"XXX",
-        "Unavailable Dates": ["2022-04-18", "2022-04-19", "2022-04-21", "2022-04-25"],
+        "Unavailable Dates": "[2022-04-18, 2022-04-19, 2022-04-23, 2022-04-28]",
         
 
     },
@@ -22,7 +22,7 @@
     "image3":"https://img.freepik.com/free-vector/doctor-character-background_1270-84.jpg?w=2000",
     "detailed":"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
     "hospital":"XXX",
-    "Unavailable Dates": ["2022-04-18", "2022-04-19", "2022-04-24", "2022-04-28"],
+    "Unavailable Dates": "[2022-04-18, 2022-04-19, 2022-04-23, 2022-04-28]",
 },
 {  "id":"3",
 "title":"DR C",
@@ -33,7 +33,7 @@
 "image3":"https://img.freepik.com/free-vector/doctor-character-background_1270-84.jpg?w=2000",
 "detailed":"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
 "hospital":"XXX",
-"Unavailable Dates": ["2022-04-18", "2022-04-19", "2022-04-21", "2022-04-31"],
+"Unavailable Dates": "[2022-04-18, 2022-04-19, 2022-04-23, 2022-04-28]",
 },
 {  "id":"4",
         "title":"DR D",
@@ -44,7 +44,7 @@
         "image3":"https://img.freepik.com/free-vector/doctor-character-background_1270-84.jpg?w=2000",
         "detailed":"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "hospital":"XXX",
-        "Unavailable Dates": ["2022-04-18", "2022-04-19", "2022-04-21", "2022-04-25"],
+        "Unavailable Dates": "[2022-04-18, 2022-04-19, 2022-04-23, 2022-04-28]",
     },
     {  "id":"5",
         "title":"DR E",
@@ -55,7 +55,7 @@
         "image3":"https://img.freepik.com/free-vector/doctor-character-background_1270-84.jpg?w=2000",
         "detailed":"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
         "hospital":"XXX",
-        "Unavailable Dates": ["2022-04-18", "2022-04-19", "2022-04-21", "2022-04-25"],
+        "Unavailable Dates": "[2022-04-18, 2022-04-19, 2022-04-23, 2022-04-28]",
     }
 ]
 
